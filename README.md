@@ -1,13 +1,3 @@
-# LISTEN. YES YOU.
+#FractalVisaApp
 
-This code and repostiory is a product of 2 days of heavy mountain dew drinking, and no sleep.
-
-Don't take this seriously.
-
-## What is it?
-
-Android application to process/manage visa applications of employees.
-Server uses python json API.
-
-MIT License  
-Copyright (c) [2016] [Mitesh Shah]
+Applying for visa in a company thereby keeping all relevant stakeholders aware about status of particular application in company via email notification. All the data is stored in a remote server which is accessible using a simple user interface.
